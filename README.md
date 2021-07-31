@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/l3gp0ggg93x8rieo?svg=true)](https://ci.appveyor.com/project/kxrxll/ajs-functions)
